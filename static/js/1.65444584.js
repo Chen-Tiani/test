@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhj"]=self["webpackChunkhj"]||[]).push([[1],{2001:function(t,n,e){e.r(n),e.d(n,{default:function(){return a}});var s=function(){var t=this;t._self._c;return t._m(0)},i=[function(){var t=this,n=t._self._c;return n("div",[n("h1",[t._v("商品")]),n("i",{staticClass:"iconfont icon-icon-service",staticStyle:{"font-size":"36px"}})])}],u={data(){return{}},methods:{}},c=u,r=e(1001),l=(0,r.Z)(c,s,i,!1,null,null,null),a=l.exports}}]);
+//# sourceMappingURL=1.65444584.js.map
